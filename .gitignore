@@ -30,3 +30,6 @@ cobertura.xml
 # https://github.com/flamegraph-rs/flamegraph / `perf`
 flamegraph.svg
 perf.data*
+
+# nix build output
+result
